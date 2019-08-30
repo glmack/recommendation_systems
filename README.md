@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 # recommendation_systems
 
